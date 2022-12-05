@@ -27,7 +27,7 @@ var lang_titleModalAsistenciaCeremonia = '¿Asistes a la fiesta?';
 var lang_titleModalAsistenciaFiesta = '¿Asistes a la fiesta?';
 
 var lang_titleModalMapaFiesta = 'Cómo llegar a la Fiesta';
-var lang_titleModalMapaCeremonia = 'Cómo llegar a la Boda';
+var lang_titleModalMapaCeremonia = 'Cómo llegar a la Fiesta';
 
 
 var lang_codigoAccesoVipRequerido = 'Ingrese el código de acceso';
